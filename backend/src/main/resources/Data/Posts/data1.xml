@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Posts>
+  <Post>
+    <date>2018-04-20</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;Crypto Trade Group Pressures SEC to Exempt Ethereum From Security Classification&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>SECURITY</category>
+    <link>https://cryptoslate.com/crypto-trade-group-pressures-sec-to-exempt-ethereum-from-security-classification/</link>
+  </Post>
+  <Post>
+    <date>2018-04-20</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;Bitcoin price rises $500 in 24 hours, causing ethereum and other cryptocurrency markets to surge in value&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>ECONOMIC</category>
+    <link>https://www.independent.co.uk/tech/bitcoin-price-latest-rise-ethereum-cryptocurrency-market-value-news-live-a8314206.html</link>
+  </Post>
+  <Post>
+    <date>2018-04-25</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;MyEtherWallet users robbed after successful DNS hijacking attack&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>SECURITY</category>
+    <link>https://www.helpnetsecurity.com/2018/04/25/myetherwallet-dns-hijacking/</link>
+  </Post>
+  <Post>
+    <date>2018-05-03</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;Crypto Markets Keep Experiencing Mainly Green After Last Week’s Market Corrections&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>ECONOMIC</category>
+    <link>https://cointelegraph.com/news/crypto-markets-keep-experiencing-mainly-green-after-last-weeks-market-corrections</link>
+  </Post>
+  <Post>
+    <date>2018-05-06</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;Ethereum Sharding and Anonymity under Attack: This week in Crypto&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>SECURITY</category>
+    <link>https://finance.yahoo.com/news/ethereum-sharding-anonymity-under-attack-142418606.html</link>
+  </Post>
+  <Post>
+    <date>2018-05-11</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;IBM and European Parliament representatives to speak at Blockchain &amp; Bitcoin Conference in Prague&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>REGULATIONS</category>
+    <link>https://www.pragueconvention.cz/hot-news/ibm-and-european-parliament-representatives-to-speak-at-blockchain-bitcoin-conference-in-prague</link>
+  </Post>
+  <Post>
+    <date>2018-05-13</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;Greek Police Uncover Plot to Kill Accused Bitcoin Launderer/BTC-e Administrator&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>SECURITY</category>
+    <link>https://finance.yahoo.com/news/greek-police-uncover-plot-kill-093208913.html</link>
+  </Post>
+  <Post>
+    <date>2018-05-21</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;Ethereum Could Be the Next Apple: Steve Wozniak&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>RECOMMENDATIONS</category>
+    <link>https://www.investopedia.com/news/ethereum-could-be-next-apple-steve-wozniak/</link>
+  </Post>
+  <Post>
+    <date>2018-05-23</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;Experimental Voting Effort Aims to Break Ethereum Governance Gridlock&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>REGULATIONS</category>
+    <link>https://www.coindesk.com/markets/2018/05/23/experimental-voting-effort-aims-to-break-ethereum-governance-gridlock/</link>
+  </Post>
+  <Post>
+    <date>2018-05-28</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;Hacker Steals $1.35 Million From Cryptocurrency Trading App Taylor&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>SECURITY</category>
+    <link>https://www.bleepingcomputer.com/news/security/hacker-steals-135-million-from-cryptocurrency-trading-app-taylor/</link>
+  </Post>
+  <Post>
+    <date>2018-05-28</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;Chairman Mao Zedong Stunt Sparks an Uproar at Blockchain Conference In China&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>POLITICS</category>
+    <link>https://www.reuters.com/article/idUSKCN1IT0X6/</link>
+  </Post>
+  <Post>
+    <date>2018-06-10</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;Korean crypto exchange Coinrail loses over $40M in tokens following a hack&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>SECURITY</category>
+    <link>https://techcrunch.com/2018/06/10/korean-crypto-exchange-coinrail-loses-over-40m-in-tokens-following-a-hack/</link>
+  </Post>
+  <Post>
+    <date>2018-06-12</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;Ethereum &quot;Giveaway&quot; Scammers Have Tricked People Out of $4.3 Million&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>SECURITY</category>
+    <link>https://www.bleepingcomputer.com/news/security/ethereum-giveaway-scammers-have-tricked-people-out-of-43-million/</link>
+  </Post>
+  <Post>
+    <date>2018-06-12</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;US Bank Wells Fargo Bans Crypto Purchases With Its Credit Cards&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>TECHNOLOGY</category>
+    <link>https://cointelegraph.com/news/us-bank-wells-fargo-bans-crypto-purchases-with-its-credit-cards</link>
+  </Post>
+  <Post>
+    <date>2018-06-13</date>
+    <cryptoCurrency>ETH</cryptoCurrency>
+    <title>&quot;Hackers Scoop $20 Million in ETH From Exposed Ethereum Nodes&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>SECURITY</category>
+    <link>https://cryptoslate.com/hackers-scoop-20-million-in-eth-from-exposed-ethereum-nodes/</link>
+  </Post>
+  <Post>
+    <date>2021-01-04</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;Charles Hoskinson of IOHK Shares His Opinion About Litecoin, IOTA&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>RECOMMENDATIONS</category>
+    <link>https://cryptocomes.com/news/charles-hoskinson-of-iohk-shares-his-opinion-about-litecoin-iota</link>
+  </Post>
+  <Post>
+    <date>2021-01-05</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;LTC/USD Analysis: There Is A Huge Upside Potential&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>RECOMMENDATIONS</category>
+    <link>https://www.coinspeaker.com/litecoin-ltcusd-analysis-huge-upside-potential/</link>
+  </Post>
+  <Post>
+    <date>2021-01-09</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;Flare Networks Announces Litecoin Airdrop, Plans To Bring DeFi and Smart Contracts to LTC and XRP&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>ECONOMIC</category>
+    <link>https://dailyhodl.com/2021/01/09/flare-networks-announces-litecoin-airdrop-plans-to-bring-defi-and-smart-contracts-to-ltc-and-xrp/</link>
+  </Post>
+  <Post>
+    <date>2021-01-11</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;Crypto Market Erases $200 Billion In Market Value In 24 Hours; Regulator Warns Investors Could ‘Lose All Their Money’&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>RECOMMENDATIONS</category>
+    <link>https://www.forbes.com/sites/jonathanponciano/2021/01/11/crypto-market-erases-200-billion-in-market-value-in-24-hours-regulator-warns-investors-could-lose-all-their-money/</link>
+  </Post>
+  <Post>
+    <date>2021-02-09</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;Litecoin Sports Betting Deposits&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>CULTURE</category>
+    <link>https://sportsbetting.legal/banking/litecoin/</link>
+  </Post>
+  <Post>
+    <date>2021-02-21</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;Win a Tesla with the Crypto.com app&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>CULTURE</category>
+    <link>https://www.publish0x.com/cryptofiveo/win-a-tesla-with-the-cryptocom-app-xkyxgnr</link>
+  </Post>
+  <Post>
+    <date>2021-02-20</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;Litecoin Price Analysis: 20 February&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>RECOMMENDATIONS</category>
+    <link>https://ambcrypto.com/why-microstrategy-and-other-institutions-dont-regret-their-bitcoin-buys/</link>
+  </Post>
+  <Post>
+    <date>2021-02-25</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;Ebang International to Launch Litecoin and Dogecoin Mining Business&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>TECHNOLOGY</category>
+    <link>https://finance.yahoo.com/news/ebang-international-launch-litecoin-dogecoin-140000718.html</link>
+  </Post>
+  <Post>
+    <date>2021-03-01</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;Google Finance Adds Crypto Tab Featuring BTC, ETH, LTC, BCH&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>TECHNOLOGY</category>
+    <link>https://www.investing.com/news/cryptocurrency-news/google-finance-adds-crypto-tab-featuring-btc-eth-ltc-bch-2433142</link>
+  </Post>
+  <Post>
+    <date>2021-03-12</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;Crypto Price Analysis &amp; Overview March 12th: Bitcoin, Ethereum, Ripple, Cardano, and Litecoin&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>RECOMMENDATIONS</category>
+    <link>https://cryptopotato.com/crypto-price-analysis-overview-march-12th-bitcoin-ethereum-ripple-cardano-and-litecoin/</link>
+  </Post>
+  <Post>
+    <date>2021-04-06</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;BTC, LTC &amp; ETH On-Chain Analysis: Thermocap Ratio Predicts More Growth in Current Bull Market&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>RECOMMENDATIONS</category>
+    <link>https://finance.yahoo.com/news/btc-ltc-eth-chain-analysis-150100708.html</link>
+  </Post>
+  <Post>
+    <date>2021-04-18</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;LTC Price Analysis: Litecoin Price Gets Rejected At 3 Month Trend Line&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>ECONOMIC</category>
+    <link>https://coingape.com/84932-2/</link>
+  </Post>
+  <Post>
+    <date>2021-04-29</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;Someone Paid $1.7M In Litecoin For Tom Brady Football Card&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>CULTURE</category>
+    <link>https://www.reddit.com/r/NFT/comments/n13s8p/someone_paid_17m_in_litecoin_for_tom_brady/</link>
+  </Post>
+  <Post>
+    <date>2021-05-06</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;LTC price hits 13-month high against Bitcoin — All-time high next for Litecoin?&quot;</title>
+    <isPositive>TRUE</isPositive>
+    <category>ECONOMIC</category>
+    <link>https://cointelegraph.com/news/ltc-price-hits-13-month-high-against-bitcoin-all-time-high-next-for-litecoin</link>
+  </Post>
+  <Post>
+    <date>2021-05-10</date>
+    <cryptoCurrency>LTC</cryptoCurrency>
+    <title>&quot;Litecoin price hits $400 all-time high, but LTC rally at risk of overheating&quot;</title>
+    <isPositive>FALSE</isPositive>
+    <category>RECOMMENDATIONS</category>
+    <link>https://cointelegraph.com/news/litecoin-price-hits-400-all-time-high-but-ltc-rally-at-risk-of-overheating</link>
+  </Post>
+</Posts>
